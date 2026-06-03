@@ -1,4 +1,3 @@
-# Smart Tourism Platform
 # 🌍 Smart Tourism Platform
 
 > Connecting Tourists with Verified Guides, Travel Agencies, and Smart Travel Experiences Across Sri Lanka.
