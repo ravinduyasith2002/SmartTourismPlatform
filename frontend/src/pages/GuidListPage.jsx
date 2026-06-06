@@ -1,4 +1,4 @@
-import { GuideCard } from "../components/guideListPage/guideCard";
+import { GuideCard } from "../components/guideListPage/GuideCard";
 import { FilterList } from "../components/FilterList";
 import { useState } from "react";
 import { Filter } from "lucide-react";
